@@ -1,3 +1,5 @@
 # TODO: Add versions 
 streamlit 
 openai 
+stravalib 
+plotly
